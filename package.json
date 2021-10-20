@@ -3,7 +3,8 @@
 	"displayName": "Run In Terminal",
 	"description": "",
 	"version": "0.0.1",
-	"publisher": "Aaron",
+	"publisher": "aar0n",
+	"repository": "https://github.com/aar0u/vscode-run-in-terminal",
 	"engines": {
 		"vscode": "^1.61.0"
 	},
