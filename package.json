@@ -1,12 +1,13 @@
 {
 	"name": "run-in-terminal",
-	"displayName": "Run In Terminal",
-	"description": "",
+	"displayName": "Run Selected Text In Terminal",
+	"description": "Context Menu - Run Selected Text In Terminal",
 	"version": "0.0.1",
 	"publisher": "aar0n",
 	"repository": "https://github.com/aar0u/vscode-run-in-terminal",
+	"icon": "icons8-console-100.png",
 	"engines": {
-		"vscode": "^1.61.0"
+		"vscode": "^1.48.2"
 	},
 	"categories": [
 		"Other"
